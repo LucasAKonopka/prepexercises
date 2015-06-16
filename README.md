@@ -1,2 +1,0 @@
-# prepexercises
-exercises for tealeaf
